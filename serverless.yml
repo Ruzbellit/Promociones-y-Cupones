@@ -11,9 +11,9 @@
 #
 # Happy Coding!
 
-service: gestion-de-vehiculos-www
+service: promociones-y-cupones
 # app and org for use with dashboard.serverless.com
-app: gestion-de-vehiculos-www
+app: promociones-y-cupones
 org: dve98
 
 # You can pin your service to only deploy with a specific Serverless version
